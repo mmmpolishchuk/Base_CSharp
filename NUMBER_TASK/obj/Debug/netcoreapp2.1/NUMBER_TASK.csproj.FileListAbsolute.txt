@@ -1,0 +1,11 @@
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\NUMBER_TASK\bin\Debug\netcoreapp2.1\NUMBER_TASK.deps.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\NUMBER_TASK\bin\Debug\netcoreapp2.1\NUMBER_TASK.runtimeconfig.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\NUMBER_TASK\bin\Debug\netcoreapp2.1\NUMBER_TASK.runtimeconfig.dev.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\NUMBER_TASK\bin\Debug\netcoreapp2.1\NUMBER_TASK.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\NUMBER_TASK\bin\Debug\netcoreapp2.1\NUMBER_TASK.pdb
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\NUMBER_TASK\obj\Debug\netcoreapp2.1\NUMBER_TASK.csprojAssemblyReference.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\NUMBER_TASK\obj\Debug\netcoreapp2.1\NUMBER_TASK.csproj.CoreCompileInputs.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\NUMBER_TASK\obj\Debug\netcoreapp2.1\NUMBER_TASK.AssemblyInfoInputs.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\NUMBER_TASK\obj\Debug\netcoreapp2.1\NUMBER_TASK.AssemblyInfo.cs
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\NUMBER_TASK\obj\Debug\netcoreapp2.1\NUMBER_TASK.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\NUMBER_TASK\obj\Debug\netcoreapp2.1\NUMBER_TASK.pdb
