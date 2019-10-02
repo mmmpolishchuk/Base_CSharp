@@ -1,0 +1,22 @@
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\DISCOUNT_TASK\bin\Debug\netcoreapp2.1\DISCOUNT_TASK.deps.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\DISCOUNT_TASK\bin\Debug\netcoreapp2.1\DISCOUNT_TASK.runtimeconfig.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\DISCOUNT_TASK\bin\Debug\netcoreapp2.1\DISCOUNT_TASK.runtimeconfig.dev.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\DISCOUNT_TASK\bin\Debug\netcoreapp2.1\DISCOUNT_TASK.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\DISCOUNT_TASK\bin\Debug\netcoreapp2.1\DISCOUNT_TASK.pdb
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\DISCOUNT_TASK\obj\Debug\netcoreapp2.1\DISCOUNT_TASK.csprojAssemblyReference.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\DISCOUNT_TASK\obj\Debug\netcoreapp2.1\DISCOUNT_TASK.csproj.CoreCompileInputs.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\DISCOUNT_TASK\obj\Debug\netcoreapp2.1\DISCOUNT_TASK.AssemblyInfoInputs.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\DISCOUNT_TASK\obj\Debug\netcoreapp2.1\DISCOUNT_TASK.AssemblyInfo.cs
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\DISCOUNT_TASK\obj\Debug\netcoreapp2.1\DISCOUNT_TASK.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\STUDYING\ITEA\HOMEWORK\DISCOUNT_TASK\obj\Debug\netcoreapp2.1\DISCOUNT_TASK.pdb
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #1. 19.09\DISCOUNT_TASK\bin\Debug\netcoreapp2.1\DISCOUNT_TASK.deps.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #1. 19.09\DISCOUNT_TASK\bin\Debug\netcoreapp2.1\DISCOUNT_TASK.runtimeconfig.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #1. 19.09\DISCOUNT_TASK\bin\Debug\netcoreapp2.1\DISCOUNT_TASK.runtimeconfig.dev.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #1. 19.09\DISCOUNT_TASK\bin\Debug\netcoreapp2.1\DISCOUNT_TASK.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #1. 19.09\DISCOUNT_TASK\bin\Debug\netcoreapp2.1\DISCOUNT_TASK.pdb
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #1. 19.09\DISCOUNT_TASK\obj\Debug\netcoreapp2.1\DISCOUNT_TASK.csprojAssemblyReference.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #1. 19.09\DISCOUNT_TASK\obj\Debug\netcoreapp2.1\DISCOUNT_TASK.csproj.CoreCompileInputs.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #1. 19.09\DISCOUNT_TASK\obj\Debug\netcoreapp2.1\DISCOUNT_TASK.AssemblyInfoInputs.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #1. 19.09\DISCOUNT_TASK\obj\Debug\netcoreapp2.1\DISCOUNT_TASK.AssemblyInfo.cs
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #1. 19.09\DISCOUNT_TASK\obj\Debug\netcoreapp2.1\DISCOUNT_TASK.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #1. 19.09\DISCOUNT_TASK\obj\Debug\netcoreapp2.1\DISCOUNT_TASK.pdb
