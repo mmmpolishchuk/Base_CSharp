@@ -1,0 +1,22 @@
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #3. 26.09\DOG_TASK\bin\Debug\netcoreapp2.1\DOG_TASK.deps.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #3. 26.09\DOG_TASK\bin\Debug\netcoreapp2.1\DOG_TASK.runtimeconfig.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #3. 26.09\DOG_TASK\bin\Debug\netcoreapp2.1\DOG_TASK.runtimeconfig.dev.json
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #3. 26.09\DOG_TASK\bin\Debug\netcoreapp2.1\DOG_TASK.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #3. 26.09\DOG_TASK\bin\Debug\netcoreapp2.1\DOG_TASK.pdb
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #3. 26.09\DOG_TASK\obj\Debug\netcoreapp2.1\DOG_TASK.csprojAssemblyReference.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #3. 26.09\DOG_TASK\obj\Debug\netcoreapp2.1\DOG_TASK.csproj.CoreCompileInputs.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #3. 26.09\DOG_TASK\obj\Debug\netcoreapp2.1\DOG_TASK.AssemblyInfoInputs.cache
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #3. 26.09\DOG_TASK\obj\Debug\netcoreapp2.1\DOG_TASK.AssemblyInfo.cs
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #3. 26.09\DOG_TASK\obj\Debug\netcoreapp2.1\DOG_TASK.dll
+C:\Users\ypoli\Desktop\НАВЧАННЯ\ITEA.MAIN\HOMEWORK\Homework #3. 26.09\DOG_TASK\obj\Debug\netcoreapp2.1\DOG_TASK.pdb
+C:\Users\ypoli\Desktop\DOG_TASK\bin\Debug\netcoreapp2.1\DOG_TASK.deps.json
+C:\Users\ypoli\Desktop\DOG_TASK\bin\Debug\netcoreapp2.1\DOG_TASK.runtimeconfig.json
+C:\Users\ypoli\Desktop\DOG_TASK\bin\Debug\netcoreapp2.1\DOG_TASK.runtimeconfig.dev.json
+C:\Users\ypoli\Desktop\DOG_TASK\bin\Debug\netcoreapp2.1\DOG_TASK.dll
+C:\Users\ypoli\Desktop\DOG_TASK\bin\Debug\netcoreapp2.1\DOG_TASK.pdb
+C:\Users\ypoli\Desktop\DOG_TASK\obj\Debug\netcoreapp2.1\DOG_TASK.csprojAssemblyReference.cache
+C:\Users\ypoli\Desktop\DOG_TASK\obj\Debug\netcoreapp2.1\DOG_TASK.csproj.CoreCompileInputs.cache
+C:\Users\ypoli\Desktop\DOG_TASK\obj\Debug\netcoreapp2.1\DOG_TASK.AssemblyInfoInputs.cache
+C:\Users\ypoli\Desktop\DOG_TASK\obj\Debug\netcoreapp2.1\DOG_TASK.AssemblyInfo.cs
+C:\Users\ypoli\Desktop\DOG_TASK\obj\Debug\netcoreapp2.1\DOG_TASK.dll
+C:\Users\ypoli\Desktop\DOG_TASK\obj\Debug\netcoreapp2.1\DOG_TASK.pdb
