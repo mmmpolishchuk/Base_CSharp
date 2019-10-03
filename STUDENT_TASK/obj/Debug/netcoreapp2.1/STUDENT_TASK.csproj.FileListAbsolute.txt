@@ -1,0 +1,11 @@
+C:\Users\ypoli\Desktop\3.10 Lesson_6\STUDENT_TASK\obj\Debug\netcoreapp2.1\STUDENT_TASK.csprojAssemblyReference.cache
+C:\Users\ypoli\Desktop\3.10 Lesson_6\STUDENT_TASK\obj\Debug\netcoreapp2.1\STUDENT_TASK.csproj.CoreCompileInputs.cache
+C:\Users\ypoli\Desktop\3.10 Lesson_6\STUDENT_TASK\obj\Debug\netcoreapp2.1\STUDENT_TASK.AssemblyInfoInputs.cache
+C:\Users\ypoli\Desktop\3.10 Lesson_6\STUDENT_TASK\obj\Debug\netcoreapp2.1\STUDENT_TASK.AssemblyInfo.cs
+C:\Users\ypoli\Desktop\3.10 Lesson_6\STUDENT_TASK\bin\Debug\netcoreapp2.1\STUDENT_TASK.deps.json
+C:\Users\ypoli\Desktop\3.10 Lesson_6\STUDENT_TASK\bin\Debug\netcoreapp2.1\STUDENT_TASK.runtimeconfig.json
+C:\Users\ypoli\Desktop\3.10 Lesson_6\STUDENT_TASK\bin\Debug\netcoreapp2.1\STUDENT_TASK.runtimeconfig.dev.json
+C:\Users\ypoli\Desktop\3.10 Lesson_6\STUDENT_TASK\bin\Debug\netcoreapp2.1\STUDENT_TASK.dll
+C:\Users\ypoli\Desktop\3.10 Lesson_6\STUDENT_TASK\bin\Debug\netcoreapp2.1\STUDENT_TASK.pdb
+C:\Users\ypoli\Desktop\3.10 Lesson_6\STUDENT_TASK\obj\Debug\netcoreapp2.1\STUDENT_TASK.dll
+C:\Users\ypoli\Desktop\3.10 Lesson_6\STUDENT_TASK\obj\Debug\netcoreapp2.1\STUDENT_TASK.pdb
