@@ -1,0 +1,11 @@
+C:\Users\ypoli\Desktop\1.10 Lesson_5\INITIALS_TASK\bin\Debug\netcoreapp2.1\INITIALS_TASK.deps.json
+C:\Users\ypoli\Desktop\1.10 Lesson_5\INITIALS_TASK\bin\Debug\netcoreapp2.1\INITIALS_TASK.runtimeconfig.json
+C:\Users\ypoli\Desktop\1.10 Lesson_5\INITIALS_TASK\bin\Debug\netcoreapp2.1\INITIALS_TASK.runtimeconfig.dev.json
+C:\Users\ypoli\Desktop\1.10 Lesson_5\INITIALS_TASK\bin\Debug\netcoreapp2.1\INITIALS_TASK.dll
+C:\Users\ypoli\Desktop\1.10 Lesson_5\INITIALS_TASK\bin\Debug\netcoreapp2.1\INITIALS_TASK.pdb
+C:\Users\ypoli\Desktop\1.10 Lesson_5\INITIALS_TASK\obj\Debug\netcoreapp2.1\INITIALS_TASK.csprojAssemblyReference.cache
+C:\Users\ypoli\Desktop\1.10 Lesson_5\INITIALS_TASK\obj\Debug\netcoreapp2.1\INITIALS_TASK.csproj.CoreCompileInputs.cache
+C:\Users\ypoli\Desktop\1.10 Lesson_5\INITIALS_TASK\obj\Debug\netcoreapp2.1\INITIALS_TASK.AssemblyInfoInputs.cache
+C:\Users\ypoli\Desktop\1.10 Lesson_5\INITIALS_TASK\obj\Debug\netcoreapp2.1\INITIALS_TASK.AssemblyInfo.cs
+C:\Users\ypoli\Desktop\1.10 Lesson_5\INITIALS_TASK\obj\Debug\netcoreapp2.1\INITIALS_TASK.dll
+C:\Users\ypoli\Desktop\1.10 Lesson_5\INITIALS_TASK\obj\Debug\netcoreapp2.1\INITIALS_TASK.pdb
