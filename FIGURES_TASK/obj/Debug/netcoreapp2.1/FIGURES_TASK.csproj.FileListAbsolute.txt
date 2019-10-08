@@ -1,0 +1,11 @@
+C:\Users\ypoli\Desktop\08.10 Lesson_7\FIGURES_TASK\bin\Debug\netcoreapp2.1\FIGURES_TASK.deps.json
+C:\Users\ypoli\Desktop\08.10 Lesson_7\FIGURES_TASK\bin\Debug\netcoreapp2.1\FIGURES_TASK.runtimeconfig.json
+C:\Users\ypoli\Desktop\08.10 Lesson_7\FIGURES_TASK\bin\Debug\netcoreapp2.1\FIGURES_TASK.runtimeconfig.dev.json
+C:\Users\ypoli\Desktop\08.10 Lesson_7\FIGURES_TASK\bin\Debug\netcoreapp2.1\FIGURES_TASK.dll
+C:\Users\ypoli\Desktop\08.10 Lesson_7\FIGURES_TASK\bin\Debug\netcoreapp2.1\FIGURES_TASK.pdb
+C:\Users\ypoli\Desktop\08.10 Lesson_7\FIGURES_TASK\obj\Debug\netcoreapp2.1\FIGURES_TASK.csprojAssemblyReference.cache
+C:\Users\ypoli\Desktop\08.10 Lesson_7\FIGURES_TASK\obj\Debug\netcoreapp2.1\FIGURES_TASK.csproj.CoreCompileInputs.cache
+C:\Users\ypoli\Desktop\08.10 Lesson_7\FIGURES_TASK\obj\Debug\netcoreapp2.1\FIGURES_TASK.AssemblyInfoInputs.cache
+C:\Users\ypoli\Desktop\08.10 Lesson_7\FIGURES_TASK\obj\Debug\netcoreapp2.1\FIGURES_TASK.AssemblyInfo.cs
+C:\Users\ypoli\Desktop\08.10 Lesson_7\FIGURES_TASK\obj\Debug\netcoreapp2.1\FIGURES_TASK.dll
+C:\Users\ypoli\Desktop\08.10 Lesson_7\FIGURES_TASK\obj\Debug\netcoreapp2.1\FIGURES_TASK.pdb
